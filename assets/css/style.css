@@ -1,0 +1,66 @@
+.devices
+{
+    height: 550px;
+    width: 320px;
+    background-color: #fff;
+    border-radius: 35px;
+}
+
+.profile
+{
+    height: 30px;
+    width: 30px;
+}
+
+body{
+    background-color: #000;
+}
+
+.buble
+{
+    height: 150px;
+    width: 80%;
+    border-radius: 35px;
+    color: #fff;
+}
+
+.main
+{
+    position: relative;
+}
+
+.setImg
+{
+    position: absolute;
+    top: 14%;
+    right: 8%;
+    
+}
+
+.setTxt
+{
+    position: absolute;
+    top:10%;
+    left: 0;
+}
+
+.hover:hover
+{
+    cursor: pointer;
+}
+
+.buble2
+{
+    height: 200px;
+    width: 100%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    position: relative;
+}
+
+.zoneImg
+{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
